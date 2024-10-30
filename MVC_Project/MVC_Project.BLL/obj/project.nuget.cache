@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBkR64pk1y4XhPusSiLJHcOwVIo0Tt6wc0mcLrDcIO97F1gyxfk4Obg5+UwUjpfgx4tMxhhkiwlQfF5kU3mNSg==",
+  "success": false,
+  "projectFilePath": "G:\\route\\MVC_Project\\MVC_session4\\MVC_Project\\MVC_Project.BLL\\MVC_Project.BLL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'G:\\route\\MVC_Project\\MVC_session4\\MVC_Project\\MVC_Project\\MVC_Project.DAL.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "G:\\route\\MVC_Project\\MVC_session4\\MVC_Project\\MVC_Project\\MVC_Project.DAL.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
